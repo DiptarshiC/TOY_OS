@@ -1,4 +1,4 @@
-#About this project
+# About this project
 
 
 I have been reading about operating systems code and have for longed aspired to write my own operating systems.
